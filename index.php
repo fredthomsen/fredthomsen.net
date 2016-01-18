@@ -71,9 +71,6 @@ if ($isMobile)
             </div>
             <div id="content">
                 <div id="social_links">
-                    <a href="http://blog.fredthomsen.net/">
-                        <img src="images/logos/wordpress_logo.jpg">
-                    </a>
                     <a href="https://twitter.com/fredthomsen">
                         <img src="images/logos/twitter_logo.jpg">
                     </a>
