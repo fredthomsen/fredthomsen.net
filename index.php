@@ -58,11 +58,7 @@ if ($isMobile)
                 }(document,"script","twitter-wjs");
             </script>
         </div>
-        <div id="pic">
-            <div id="gplusfollow">
-                <div class="g-follow" data-annotation="bubble" data-height="20" data-href="//plus.google.com/110862805895158581654" data-rel="author"></div>
-            </div>
-        </div>
+        <div id="pic"></div>
         <div id="banner">&nbsp;</div>
         <div id="container">
             <div id="top">
@@ -84,9 +80,6 @@ if ($isMobile)
                     <a href="https://www.linkedin.com/in/fredthomsen">
                         <img src="images/logos/linkedin_logo.png">
                     </a>
-                    <a href="https://plus.google.com/+FredThomsen">
-                        <img src="images/logos/googleplus_logo.png">
-                    </a>
                     <a href="http://stackexchange.com/users/1274123">
                         <img src="images/logos/stackex_logo.svg">
                     </a>
@@ -102,7 +95,6 @@ if ($isMobile)
                     </a>
                 </div>
                 <div id="gplusone">
-                    <div class="g-plusone" data-annotation="inline" data-width="300"></div>
                     <script type="text/javascript">
                       (function() {
                               var po = document.createElement('script'); 
