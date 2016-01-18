@@ -84,34 +84,40 @@ if ($isMobile)
                     <a href="https://www.linkedin.com/in/fredthomsen">
                         <img src="images/logos/linkedin_logo.png">
                     </a>
-                    <a href="https://plus.google.com/u/0/110862805895158581654/">
+                    <a href="https://plus.google.com/+FredThomsen">
                         <img src="images/logos/googleplus_logo.png">
                     </a>
-                    <a href="http://stackoverflow.com/users/1526546/fred-thomsen">
-                        <img src="images/logos/stackoverflow_logo.png">
+                    <a href="http://stackexchange.com/users/1274123">
+                        <img src="images/logos/stackex_logo.svg">
                     </a>
                     <a href="https://github.com/fredthomsen">
                         <img src="images/logos/github_logo.png">
                     </a>
                 </div>
             </div>
-            <div id="bottom"></div>
-            <div id="gplusone">
-                <div class="g-plusone" data-annotation="inline" data-width="300"></div>
-                <script type="text/javascript">
-                  (function() {
-                          var po = document.createElement('script'); 
-                          po.type = 'text/javascript'; 
-                          po.async = true;
-                          po.src = 'https://apis.google.com/js/plusone.js';
-                          var s = document.getElementsByTagName('script')[0];
-                          s.parentNode.insertBefore(po, s);
-                        })();
-                </script>
+            <div id="bottom">
+                <div id="stackex">
+                    <a href="http://stackexchange.com/users/1274123">
+                        <img src="http://stackexchange.com/users/flair/1274123.png" width="208" height="58" alt="profile for Fred Thomsen on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Fred Thomsen on Stack Exchange, a network of free, community-driven Q&amp;A sites">
+                    </a>
+                </div>
+                <div id="gplusone">
+                    <div class="g-plusone" data-annotation="inline" data-width="300"></div>
+                    <script type="text/javascript">
+                      (function() {
+                              var po = document.createElement('script'); 
+                              po.type = 'text/javascript'; 
+                              po.async = true;
+                              po.src = 'https://apis.google.com/js/plusone.js';
+                              var s = document.getElementsByTagName('script')[0];
+                              s.parentNode.insertBefore(po, s);
+                            })();
+                    </script>
+                </div>
             </div>
         </div>
         <footer>
-            <p>&copy; 2013 Fred Thomsen</p>
+            <p>&copy; 2014 Fred Thomsen</p>
         </footer>
     </body>
 </html>
