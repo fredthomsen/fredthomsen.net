@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/fredthomsen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://fredthomsen.net
+  * I am fredthomsen (https://keybase.io/fredthomsen) on keybase.
+  * I have a public key with fingerprint 7E60 79D6 815D 4950 0BE2  3287 598B 64BF 7047 D697
+      
+To do so, I am signing this object:
+      
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101a14f361f88cb78efd223f8c78046ae3e9a8b78a7778dbee82c7b8166752f8cfe0a",
+            "fingerprint": "7e6079d6815d49500be23287598b64bf7047d697",
+            "host": "keybase.io",
+            "key_id": "598b64bf7047d697",
+            "kid": "0101a14f361f88cb78efd223f8c78046ae3e9a8b78a7778dbee82c7b8166752f8cfe0a",
+            "uid": "c5fdaad539bf4e9c75aa1bb877320e19",
+            "username": "fredthomsen"
+        },
+        "service": {
+        "hostname": "fredthomsen.net",
+        "protocol": "http:"
+        },
+    "type": "web_service_binding",
+    "version": 1
+    },
+    "ctime": 1488846633,
+    "expire_in": 157680000,
+    "prev": "d27312b4ccc65d65bb35306e58f1467c7697bb071da7414b84006648a2255cfc",
+    "seqno": 2,
+    "tag": "signature"
+}
+      
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owGtkmtMHFUUx5dHKVJaVrANCGnqtI1tQDLvO7t0JYIUTWhL01WXgixzZ+6ww2N3
+2R1WHjZiEW0jhV1EIdSWEOuTlsYQlNJuCTHWUIUGH4iCuKGmugX6RIQC1lmin/Sj
+98vNPed3/vd/To57fYgmPCjndbHfnjnaEvSlH2pM3vtZ1Ri0iZWYvhorRqsXKhGR
+UzEXyyKmx3ACJ3iCliiWkDhOgIBDkkiSlMQJgMNplkcU0vGcGucBAJwIEeJIAUCO
+YFnAkComIZzHkjBJthYih90hWxVVFiAWBzqR5QhGpHUMjkNEUiQHGB0HWRpKAKeB
+yOqAWmixOQMVqjnIO1GybFNj6sO8au8/+P/Zd/mqnMBIIs+LDKWDEo10AmB4noCQ
+A4AicUToAqATOax8KVJpyYFExWIrdSIrdigJUxMuWUCB2Qaa+TeUbEWKqmB32BSb
+YCtRkxZFsesDtUqlPQC/gKD5bxkzlK2iOky1wIUcTtlmxfSESgqKHNAlaI7jaJal
+qCQMVdhlBzLLAYIBLIerJ/ANcqmSIpkHKIKEtCAILCOyDIQUQ+EsYjiJoFkgAHWe
+EOKAEHlAEzTkaBxnWZrjSZJhBEnAAp2VWW2YnlR98oWqplMutPJKuQNhh44GJ4Rq
+gsI1YWuC1S0zaSIe0P6zeil9Ucvh813+sqlrnreWtoHOhsGQSsQs731DvjoQ4r5r
+ulPxR/p8S0ffmXbNNGbTft79Xm9648aR/Et1sbEPxxd0TF/dtNR0Kf35md0Lua+6
+vhj6TKg+ndoGehsXo1853W/cXHsvtrRnv/Pw+KgctNLXuman1dtvvB2HtDHl5meO
+e6TLm7sswnfjU+G97fsm7tf1ffjjb2UbY6rG3P1TVx7JfzHXt+PWBkcOMn46/MMn
+1BbDPsPK0Afu7KOGW1p/Cp1kznrX/Y5l8nE87eK6mYi25JWVBIP2QHZIypx3+MnI
++HRny2svz66t9t/NeHDRF33+WMbOc9urvWOpHzU/0Tuqb97l6a8Z1hZNv31hl9Hy
+5083FqsSr2Vm/BqVlpu2vmBTR5T+G2/CQuc9X8/JldLDRwZaEn2zMZPGmEdTtlZ0
+e4+nDrb3nEtPXZg1zI1q1x2cMZY3POeKP3Xdst1RnLV4Yj9joEN3t31c8XPhzZ66
+iDCLO7oy2N3VW+WpNUw6p0sWhm4W5MXFg/HLwtdzs1vGss9u2HNypCrZkx/njnrK
+lGrfUX9qoubZ7KK8ZsXtu8Mc6Vx838ccC0s4cP7NkZTrv7/01WjT8tazE0XfR04t
+1dSbrkT9IjXhnsFuGNp+obN1T0NObWR55sD80N6nlYfsrdKyv+oM+jb0Yv3Ysi/o
+hsHV+BgZm3jw9gnLXw==
+=VByu
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/fredthomsen
+
+==================================================================
