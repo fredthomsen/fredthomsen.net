@@ -1,29 +1,12 @@
-<?php
-$isMobile = (bool)preg_match('#\b(ip(hone|od)|android\b.+\bmobile|opera m(ob|in)i|windows (phone|ce)|blackberry'.
-                    '|s(ymbian|eries60|amsung)|p(alm|rofile/midp|laystation portable)|nokia|fennec|htc[\-_]'.
-                    '|up\.browser|[1-4][0-9]{2}x[1-4][0-9]{2})\b#i', $_SERVER['HTTP_USER_AGENT'] );
-/*
-if ($isMobile)
-{
-    header("Location:" . $mobileUrl);
-}
- */
-?>
-
 <html>
     <head>
         <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"> 
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
         <meta name="author" content="Fred Thomsen">
         <meta name="description" content="Fred Thomsen's Personal Page">
         <meta name="keywords" content="Fred Thomsen, Grappler, Developer">
         <title>fredthomsen.NET</title>
         <link rel="stylesheet" type="text/css" media="all" href="css/base.css"/>
-<?php
-        if($isMobile) {
-            echo "<link rel=\"stylesheet\" type=\"text/css\" media=\"all\" href=\"css/mobile.css\"/>";
-        }
-?>
         <link href="https://plus.google.com/u/0/110862805895158581654/" rel="publisher" />
         <script type="text/javascript" src="scripts/jquery-1.9.1.min.js"></script>
         <script type="text/javascript">
@@ -94,8 +77,8 @@ if ($isMobile)
                 <div id="gplusone">
                     <script type="text/javascript">
                       (function() {
-                              var po = document.createElement('script'); 
-                              po.type = 'text/javascript'; 
+                              var po = document.createElement('script');
+                              po.type = 'text/javascript';
                               po.async = true;
                               po.src = 'https://apis.google.com/js/plusone.js';
                               var s = document.getElementsByTagName('script')[0];
