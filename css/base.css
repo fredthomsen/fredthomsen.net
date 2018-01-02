@@ -1,13 +1,8 @@
-html {
-    height:100%;
-}
-
 body {
     background-color:gray;
     font-family: "Lucida Console", Monaco, monospace;
     margin:0px;
     padding:0px;
-    height:100%;
 }
 
 header,footer {
@@ -15,7 +10,9 @@ header,footer {
     font-size: 10px;
     font-family: 'Open Sans', sans-serif;
     background-color:black;
-    height:1em;
+    height:1.5em;
+    text-align: center;
+    width:100%;
 }
 
 header {
@@ -25,7 +22,6 @@ header {
 footer {
     position:fixed;
     bottom:0;
-    width:100%;
 }
 
 header > p, footer > p {
@@ -41,25 +37,9 @@ a:visited {
     text-decoration:none;
 }
 
-#twitter {
-    position: absolute;
-    top:5%;
-    right:10%;
-/*    width:200px;
-    height:300px;
-    border:3px solid black;*/
-    box-shadow: 5px 5px 5px black;
-
-/*    filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale");*/ /* Firefox 10+, Firefox on Android */ 
-/*  filter: url(filters.svg#grayscale);*/ /* Firefox 3.5+ */
-/*  filter: gray;*/ /* IE6-9 */
-/*  -webkit-filter: grayscale(1);*/ /* Google Chrome & Safari 6+ */
-
-}
-
 #banner {
-    background-image: url('/images/lights.jpg');
-    width:100%; 
+    background-image: url('../images/lights.jpg');
+    width:100%;
     height:6em;
     background-position: 140px -55px;
     background-color:black;
@@ -67,7 +47,7 @@ a:visited {
 }
 
 #pic {
-    background-image: url('/images/swedenstare.png');
+    background-image: url('../images/swedenstare.png');
     background-repeat: no-repeat;
     background-position: 50% 25%;
     position: absolute;
@@ -92,19 +72,6 @@ a:visited {
     margin: 25px 5px 5px 80px;
 }
 
-#content {
-}
-
-#bottom {
-    margin: 10px;
-    margin-top: 5%;
-}
-
-#bottom div {
-    margin: 15px;
-    display: inline;
-}
-
 #name {
     font-size:52px;
     font-family:"Courier New", Courier, monospace;
@@ -120,7 +87,7 @@ a:visited {
 }
 
 #social_links {
-    margin-left:80px;   
+    margin-left:80px;
 }
 
 #social_links img {
@@ -128,7 +95,7 @@ a:visited {
     height:48px;
     width:48px;
 
-    filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 10+, Firefox on Android */ 
+    filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 10+, Firefox on Android */
 /*  filter: url(filters.svg#grayscale);*/ /* Firefox 3.5+ */
     filter: gray; /* IE6-9 */
     -webkit-filter: grayscale(1); /* Google Chrome & Safari 6+ */
